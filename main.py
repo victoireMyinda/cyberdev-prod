@@ -1,0 +1,1 @@
+print("Bienvenue dans cette seance d'exercice cybersécurité")
